@@ -1,0 +1,17 @@
+.main {
+  text-align: center;
+}
+
+.catalog {
+  background: lightblue;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.cart {
+  outline-style:solid;
+  outline-color: black;
+  outline-width: 5px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
